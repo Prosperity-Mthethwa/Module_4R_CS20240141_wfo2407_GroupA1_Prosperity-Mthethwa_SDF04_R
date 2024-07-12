@@ -23,6 +23,7 @@ body {
     padding: 80px;
     border-radius: 10px;
     width: 80%;
+    display: flex;
   }
   
   .pastry {
